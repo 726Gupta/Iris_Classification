@@ -2,7 +2,7 @@
 This project focuses on classifying iris flowers into their respective species (Setosa, Versicolor, Virginica) using a supervised machine learning approach. The dataset used is the classic Iris dataset, which contains 150 samples with four features: sepal length, sepal width, petal length, and petal width.
 Project Overview
 
-The project involves:
+# The project involves:
 
 Data preprocessing to ensure clean and usable inputs.
 
@@ -11,24 +11,7 @@ Exploratory Data Analysis (EDA) for insights into the dataset.
 Building, training, and evaluating classification models.
 
 Comparing model performances to select the best-performing model.
-
-Table of Contents
-
-Dataset Overview
-
-Preprocessing Steps
-
-Exploratory Data Analysis
-
-Model Selection
-
-Results
-
-How to Run
-
-Dependencies
-
-Dataset Overview
+# Dataset Overview
 
 The Iris dataset contains:
 
@@ -36,7 +19,7 @@ Features: Sepal Length, Sepal Width, Petal Length, Petal Width
 
 Target: Iris Species (Setosa, Versicolor, Virginica)
 
-Preprocessing Steps
+# Preprocessing Steps
 
 Data Cleaning: Checked for missing values and inconsistencies.
 
@@ -98,7 +81,7 @@ xx%
 
 The [best-performing model] achieved an accuracy of xx%, making it the optimal choice for this classification task.
 
-How to Run
+# How to Run
 
 Clone the repository:
 
@@ -130,7 +113,7 @@ Seaborn
 
 Scikit-learn
 
-Acknowledgments
+ # Acknowledgments
 
 The Iris dataset is a classic dataset widely used in machine learning and statistical modeling.
 
